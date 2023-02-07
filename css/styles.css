@@ -51,7 +51,7 @@ hr{
 .buttom-cloud{
     position: absolute;
     left: 60%;
-    bottom: 30%;
+    bottom: 40%;
 }
 .top-cloud{
     position: absolute;
@@ -59,7 +59,7 @@ hr{
     top: 40px;
 }
 .mountain{
-    width: 80%;
+    width: 90%;
 }
 .skill-row{
     width: 50%;
